@@ -70,7 +70,7 @@ Install these before starting:
 
 ### 1. Set Your Region
 
-Use **ap-southeast-1 (Singapore)** for all services, or pick one region and stay consistent throughout.
+Use **N.Virginia US** for all services, or pick one region and stay consistent throughout.
 
 ---
 
